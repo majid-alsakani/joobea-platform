@@ -34,6 +34,56 @@
 
 ---
 
+## 👋 من أنا ولماذا بنيت جوبيا | The Story Behind Joobea
+
+<div dir="rtl">
+
+أنا **ماجد السكني**، مطوّر Full Stack من اليمن، ومؤسّس ومطوّر منصة **جوبيا**.
+
+بدأت هذه المنصة من ملاحظة عشتها بنفسي وعاشها كل من حولي: شباب يمني يحمل شهادات ومهارات حقيقية، وشركات تبحث فعلاً عن كفاءات — والطرفان لا يجدان بعضهما. الوظائف تُنشر في مجموعات واتساب تختفي خلال ساعات، والسير الذاتية تُرسل إلى إيميلات لا يفتحها أحد، والتوظيف يعتمد على «من تعرف» أكثر من «ماذا تُتقن». في بلد نسبة البطالة فيه من الأعلى في المنطقة، هذه ليست مجرد مشكلة تقنية — هذه فرص عمل ضائعة وأسر تنتظر دخلاً.
+
+فقررت أن أبني الحل بنفسي، سطراً بسطر.
+
+### 🛠️ ماذا بنينا فعلاً
+
+كتبت جوبيا من الصفر: الواجهة، الـ API، قاعدة البيانات، نظام الصلاحيات، محرّك المطابقة، ومحلّل السيرة الذاتية. لم يكن مشروع «عرض تقني» — كان عليّ أن أحل مشاكل حقيقية:
+
+- **ضعف الإنترنت في اليمن** → بنينا واجهة خفيفة، تحميل تدريجي، وعمل كـ PWA بحيث تفتح المنصة حتى على اتصال بطيء.
+- **اللغة العربية** → المنصة عربية أصلاً (RTL) وليست ترجمة ملصقة فوق قالب إنجليزي، مع دعم إنجليزي كامل.
+- **السير الذاتية الضعيفة** → أضفنا محلّل CV بالذكاء الاصطناعي يعطي **ATS Score** ويشرح للباحث عن عمل بالضبط ما ينقصه ليُقبل.
+- **الشركات المرهقة من الفرز اليدوي** → لوحة تحكم تفرز وترتّب المرشحين تلقائياً حسب التطابق، فيتحوّل أسبوع فرز إلى دقائق.
+- **من لا يجد وظيفة بدوام كامل** → أضفنا العمل الحر، الدورات، والموجّهين، حتى يبني الشخص دخلاً ومهارة بالتوازي.
+
+### 🎯 ماذا نريد
+
+هدفنا ليس «موقع وظائف» آخر. هدفنا أن تكون جوبيا **البنية التحتية الرقمية للتوظيف في اليمن**: مكان واحد موثوق يجد فيه الشاب فرصته الأولى، وتجد فيه الشركة الكفاءة المناسبة بلا وساطة ولا عشوائية. كل وظيفة تُشغَل عبر المنصة هي أسرة دخلها تحسّن، ومهارة لم تُهدر، وريال بقي داخل الاقتصاد المحلي بدل أن يهاجر.
+
+### 🚀 إلى أين نتجه
+
+نعمل الآن على توسيع المنصة: تغطية كل المحافظات، ربط الشركات والمنظمات، بوابة توظيف للخريجين مع الجامعات، تطبيق موبايل، ومسارات تدريب تنتهي بوظيفة حقيقية لا بشهادة معلّقة على الحائط. نطمح أن نصل بجوبيا إلى مرحلة تُقاس فيها بعدد الوظائف التي وفّرتها فعلاً — لا بعدد الزوار.
+
+هذا المشروع ليس تجربة برمجية بالنسبة لي. هو محاولة جادة، من مطوّر يمني، لأن تكون التقنية جزءاً من الحل لا مجرد حديث عنه.
+
+</div>
+
+**In English:**
+
+I'm **Majid Al-Sakani**, a Full Stack developer from Yemen and the founder and engineer behind **Joobea**.
+
+I built Joobea because I watched the same thing happen over and over: talented Yemeni graduates with real skills, and companies genuinely looking to hire — and the two sides never finding each other. Jobs get posted in WhatsApp groups and disappear within hours. CVs go to inboxes nobody opens. Hiring runs on *who you know*, not *what you can do*. In a country with one of the highest unemployment rates in the region, that isn't just a technical inefficiency — those are lost jobs and families waiting on an income.
+
+So I decided to build the fix myself, line by line.
+
+**What we actually built.** I wrote Joobea from scratch — the frontend, the API, the database schema, the roles and permissions, the matching engine and the resume analyzer. It was never a portfolio demo; it had to solve real constraints: weak connectivity in Yemen (lightweight UI, progressive loading, PWA), Arabic as a first-class RTL language rather than a bolted-on translation, an AI **ATS Score** that tells a candidate exactly what's missing from their CV, an employer dashboard that turns a week of manual screening into minutes, and freelance, courses and mentorship tracks for people who can't land a full-time role yet.
+
+**What we want.** Not another job board — we want Joobea to become the digital hiring infrastructure of Yemen: one trusted place where a young person finds their first opportunity and a company finds the right person, without wasta or guesswork. Every role filled through the platform is a household with income, a skill that wasn't wasted, and money that stays inside the local economy.
+
+**Where we're heading.** Expanding to every governorate, onboarding companies and organizations, building a university-to-employment gateway for fresh graduates, shipping a mobile app, and running training tracks that end in an actual job — not a certificate on a wall. We want Joobea measured by the number of people it put to work, not by pageviews.
+
+This isn't a coding exercise for me. It's a serious attempt, from a Yemeni developer, to make technology part of the solution instead of just talking about it.
+
+---
+
 ## 🌟 Key Features
 
 | # | Feature | Description |
