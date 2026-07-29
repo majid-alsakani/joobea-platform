@@ -166,6 +166,52 @@ sequenceDiagram
 
 ---
 
+---
+
+## 🔴 Live Product Tour | جولة حقيقية داخل المنصة
+
+> Real, unedited screenshots captured directly from the **production** platform at [joobea.com](https://joobea.com) — every screen below is live software, not a mockup.
+> لقطات حقيقية ملتقطة مباشرة من المنصة أثناء عملها الفعلي على [joobea.com](https://joobea.com) — كل شاشة هنا منتج حي وليست تصميماً وهمياً.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/home.jpg" alt="Joobea homepage — smart recruitment platform in Yemen"/><br/><p align="center"><b>🏠 Homepage — الصفحة الرئيسية</b><br/><sub>Hero, live job feed, employer CTA, RTL Arabic UI</sub></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/jobs.jpg" alt="Joobea jobs board with advanced filters"/><br/><p align="center"><b>🔎 Jobs Board — لوحة الوظائف</b><br/><sub>Faceted filters: city, type, experience, salary, skills</sub></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/job_detail.jpg" alt="Joobea job detail page"/><br/><p align="center"><b>📄 Job Details — تفاصيل الوظيفة</b><br/><sub>Full description, skill tags, applicants counter, apply flow</sub></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/cv_analyzer.jpg" alt="Joobea AI CV analyzer with ATS score"/><br/><p align="center"><b>🧠 AI CV Analyzer — محلل السيرة الذاتية</b><br/><sub>Free instant ATS scoring powered by AI</sub></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/companies.jpg" alt="Joobea companies directory and reviews"/><br/><p align="center"><b>🏢 Companies — دليل الشركات</b><br/><sub>Company profiles, ratings and open roles</sub></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/auth.jpg" alt="Joobea secure authentication and onboarding"/><br/><p align="center"><b>🔐 Auth & Onboarding — التسجيل والدخول</b><br/><sub>Role-based signup (seeker / employer) + email OTP verification</sub></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/freelance.jpg" alt="Joobea freelance marketplace"/><br/><p align="center"><b>💼 Freelance — العمل الحر</b><br/><sub>Project-based marketplace for independent talent</sub></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/mentors.jpg" alt="Joobea professional mentors"/><br/><p align="center"><b>🧭 Mentors — الموجهون المهنيون</b><br/><sub>Career guidance from industry professionals</sub></p></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/courses.jpg" alt="Joobea training courses library"/><br/><p align="center"><b>🎓 Courses — الدورات التدريبية</b><br/><sub>Upskilling tracks in IT, marketing and management</sub></p></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/job_fairs.jpg" alt="Joobea virtual job fairs"/><br/><p align="center"><b>🎪 Job Fairs — معارض التوظيف</b><br/><sub>Virtual hiring events connecting employers and talent</sub></p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/majid-alsakani/joobea-platform/main/screenshots/live/about.jpg" alt="About Joobea — Yemen's first national recruitment platform"/><br/><p align="center"><b>ℹ️ About Joobea — عن جوبيا</b><br/><sub>Mission, vision and the story behind Yemen's first national hiring platform</sub></p></td>
+  </tr>
+</table>
+
+### ✅ What these screens prove | ماذا تثبت هذه الشاشات
+
+| Capability | Evidence in production | الدليل |
+|---|---|---|
+| Full RTL Arabic product design | Every screen renders native Arabic RTL with correct typography | تصميم عربي كامل من اليمين لليسار |
+| AI / ATS resume intelligence | `/cv-analyzer` returns an instant ATS score for real CVs | تحليل ذكي فوري للسيرة الذاتية |
+| Advanced search & faceted filtering | Live filters across city, contract type, experience, salary, skills | فلاتر بحث متقدمة تعمل فعلياً |
+| Secure auth with email OTP | Registration issues a 6-digit, 15-minute expiring verification code | تحقق آمن عبر كود لمرة واحدة |
+| Role-based access (seeker vs employer) | Separate signup paths and employer dashboards | صلاحيات مختلفة حسب نوع الحساب |
+| Real data, real traffic | Live job postings from real companies with applicant counters | وظائف ومتقدمون حقيقيون |
+| SEO-ready architecture | Localized meta titles, city/sector landing links, semantic HTML | بنية جاهزة لمحركات البحث |
+| Monetization built in | Subscription plans, managed-hiring service and billing flow | نموذج ربحي مدمج بالفعل |
+
 ## 🚀 Roadmap
 
 - [ ] Public REST API for partner job boards
