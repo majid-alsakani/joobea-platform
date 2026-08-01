@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Joobea — Smart Recruitment Platform for Yemen | منصة جوبيا للتوظيف الذكي"
+message: "If you reference this project, please cite it as below."
+type: software
+authors:
+  - family-names: "Al-Sakani"
+    given-names: "Majid"
+    alias: "majid-alsakani"
+    country: YE
+repository-code: "https://github.com/majid-alsakani/joobea-platform"
+url: "https://joobea.com"
+abstract: "AI-powered recruitment platform for Yemen: smart job matching, ATS resume analysis, employer dashboards, freelance marketplace and mentorship, Arabic-first RTL."
+keywords:
+  - recruitment
+  - job-board
+  - artificial-intelligence
+  - ats
+  - resume-analysis
+  - yemen
+  - arabic
+  - react
+  - fastapi
+  - postgresql
+license: MIT
+date-released: "2026-06-08"
+version: "1.0.0"
