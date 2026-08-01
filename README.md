@@ -24,6 +24,22 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://majid-alsakani.github.io/joobea-platform/"><img src="https://img.shields.io/badge/📖_Case_Study-majid--alsakani.github.io-1F2937?style=for-the-badge" alt="Case Study" /></a>
+  <img src="https://img.shields.io/badge/Published-2026--06--08-0EA5E9?style=for-the-badge" alt="Published 2026-06-08" />
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--08--01-16A34A?style=for-the-badge" alt="Last updated 2026-08-01" />
+  <img src="https://img.shields.io/github/last-commit/majid-alsakani/joobea-platform?style=for-the-badge&color=7C3AED" alt="Last commit" />
+</p>
+
+<p align="center">
+  <sub>
+    <b>تاريخ النشر | Published:</b> <time datetime="2026-06-08">2026-06-08</time> •
+    <b>آخر تحديث | Last updated:</b> <time datetime="2026-08-01">2026-08-01</time> •
+    <b>المطوّر | Author:</b> <a href="https://github.com/majid-alsakani">Majid Al-Sakani — ماجد السكني</a> •
+    <b>الحالة | Status:</b> Production (joobea.com)
+  </sub>
+</p>
+
 ---
 
 **Joobea** is a comprehensive, intelligent recruitment platform designed to bridge the gap between job seekers and employers in Yemen. Built with an enterprise-grade mindset, the platform streamlines the hiring process through smart matching, advanced candidate management, and a user-friendly interface.
@@ -318,3 +334,28 @@ backend engineer, software architecture, scalable web application, Majid Al-Saka
   <em>Empowering Yemen's workforce through intelligent technology.</em><br/>
   <em>نُمكّن الكفاءات اليمنية عبر التقنية الذكية.</em>
 </p>
+
+
+---
+
+<!-- SEO / Search-engine metadata — تاريخ النشر والتحديث ومعلومات الفهرسة -->
+## 🔎 معلومات النشر والفهرسة | Publication & Indexing Metadata
+
+| الحقل / Field | القيمة / Value |
+|---|---|
+| 📅 تاريخ النشر / Date published | **2026-06-08** |
+| 🔄 آخر تحديث / Date modified | **2026-08-01** |
+| 👤 المؤلف / Author | Majid Al-Sakani — ماجد السكني ([@majid-alsakani](https://github.com/majid-alsakani)) |
+| 🌍 المنصة / Live product | [joobea.com](https://joobea.com) |
+| 📖 صفحة الحالة / Case study (SEO page) | [majid-alsakani.github.io/joobea-platform](https://majid-alsakani.github.io/joobea-platform/) |
+| 🗺️ Sitemap | [sitemap.xml](https://majid-alsakani.github.io/joobea-platform/sitemap.xml) |
+| 🤖 Robots | [robots.txt](https://majid-alsakani.github.io/joobea-platform/robots.txt) |
+| 🧾 Citation | [CITATION.cff](CITATION.cff) |
+| 🌐 اللغات / Languages | العربية (RTL) • English |
+| 🏷️ Schema.org | SoftwareApplication • Organization • Person • TechArticle • FAQPage • BreadcrumbList |
+
+> 🇸🇦 **كلمات مفتاحية:** جوبيا، منصة جوبيا، وظائف اليمن، توظيف اليمن، وظائف صنعاء، وظائف عدن، موقع وظائف يمني، تحليل السيرة الذاتية، درجة ATS، مطابقة وظائف بالذكاء الاصطناعي، منصة توظيف عربية، عمل حر اليمن، دورات تدريبية، ماجد السكني، مبرمج يمني، Full Stack Developer Yemen.
+>
+> 🇬🇧 **Keywords:** Joobea, Yemen jobs, Yemen recruitment platform, AI job matching, ATS resume analyzer, Arabic job board, RTL hiring platform, applicant tracking system, freelance Yemen, HR tech MENA, Majid Al-Sakani, Yemeni full stack developer, React FastAPI PostgreSQL recruitment SaaS.
+
+<sub>هذه الصفحة تُحدَّث دورياً. آخر مراجعة للمحتوى: <b>2026-08-01</b>. | This page is updated regularly — last content review: <b>2026-08-01</b>.</sub>
